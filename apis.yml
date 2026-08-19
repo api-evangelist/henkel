@@ -22,7 +22,7 @@ tags:
 description: 'A German multinational company operating in adhesives, beauty care, and laundry and home care markets. Produces well-known consumer brands alongside industrial adhesive technologies used worldwide. No public developer API or developer portal was located; Henkel operates a Safety Data Sheets product portal at mysds.henkel.com but does not publish open developer APIs.'
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
